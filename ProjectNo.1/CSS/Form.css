@@ -2,16 +2,17 @@
     width: 135px;
     height: 20px;
     border-radius: 5px;
+    stop-color: blue;
 }
 
 .dd2{
-    width: 100px;
+    width: 135px;
     height: 20px;
     border-radius: 5px;
 }
 
 .dd3{
-    width: 150px;
+    width: 160px;
     height: 20px;
     border-radius: 5px;
 }
