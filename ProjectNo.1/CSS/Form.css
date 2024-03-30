@@ -53,7 +53,7 @@ button{
 
 select {
     appearance: none;
-    background-image: url(./images/icon.svg);
+    background-image: url(/CSS/images/icon.svg);
     background-repeat: no-repeat;
     background-position: right 0rem top 50%;
     background-size: 0.65rem 3vh;
