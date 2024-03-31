@@ -1,22 +1,6 @@
-/* .dd1{
-    width: 135px;
-    height: 20px;
-    border-radius: 5px;
-    stop-color: blue;
+.email{
+    width: 200px;
 }
-
-.dd2{
-    width: 135px;
-    height: 20px;
-    border-radius: 5px;
-}
-
-.dd3{
-    width: 160px;
-    height: 20px;
-    border-radius: 5px;
-} */
-
 .street{
     width: 250px;
     height: 20px;
@@ -30,20 +14,7 @@
     height: 20px;
     
 }
-/* .dd4{
-    width: 125px;
-    height: 25px;
-    border-radius: 5px;
-    padding: 2px;
-}
-.dd5{
-    width: 250px;
-    height: 20px;
-    border-radius: 5px;
-} */
-/* input[text=text]{
-    outline: 20px;
-} */
+
 
 button{
     margin-top: 2px;
@@ -57,7 +28,7 @@ select {
     background-repeat: no-repeat;
     background-position: right 0rem top 50%;
     background-size: 0.65rem 3vh;
-    width: 120px;
+    width: 150px;
     height: 20px;
     padding: 2px;
     border-radius: 5px;
